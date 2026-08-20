@@ -1,0 +1,117 @@
+Valle Jungle is a wildland on the southside of [[Vallehold]] island that makes up around 70% of the island.
+
+Due to the effects of [[flux]] on the island's creatures over 100 unique species live on the island. Flux not only causes rapid evolution of creatures but also opens up small rifts to other planes. These rifts allow for the energy of other planes to seep into the jungle. As a result creature types from other planes make the Valle Jungle their home.
+
+Hunters will make trips into the jungle to poach these unique creatures and sell their parts for a fortune on the mainland.
+
+Gameplay elements
+**
+- Treacherous land that acts as a natural barrier to escapees
+- When traveling between destinations, roll on the encounter table to determine the type of animal den players encounter. 
+	- The DM rolls on a mutation table to determine the random mutations that the encounter/monster will have
+	- Each monster has a base mutation point pool. This pool determines the possible number and quality of the mutation that they can receive.
+	- Base mutation points = party Cr - monster Cr
+		- a Cr 1 monster start with 4 mutation points if the party has an average Cr of 5
+	- Monster Mutation Table - https://docs.google.com/spreadsheets/d/1JcYnXZ37dHsztnJOvCLEFbe-xGxh5P-f-j1sTxM6L3U/edit?usp=sharing
+- When players defeat a mutated monster, they leave behind a [[flux core]] that is equal to the rarity of the monster's highest rarity mutation.
+- This monster core then randomly generates a usable mutation for players
+- The mutation is unknown to the players until they identify the flux core
+- Player Mutation Table - https://docs.google.com/spreadsheets/d/1AJxflr6-bzCKMMKC8tbV0eXQpjOG9KZaNdqQCtHRtls/edit?usp=sharing
+- Jungle Creatures
+	- Cr < 1
+		- Bats
+		- Giant rats
+		- Deer
+		- Spiders
+		- Fire beetle
+		- Flying snake
+		- Constrictor snake
+		- Giant Centipede
+		- Giant lizard
+		- Panther
+		- Pteranodon
+		- Velociraptor
+		- Wolf/Dire wolf
+		- Ape
+		- Bear
+		- Crocodile
+		- Giant Dragonfly
+		- Deinonychus
+		- Giant toad
+		- Moorbounder
+		- Sangzor
+		- Tiger’
+		- Blink Dog
+		- Copper Dragon Wyrmling
+		- Cockatrice
+		- Giant eagle
+		- Dryad
+	- Cr 2
+		- Allosaurus
+		- Aurochs
+		- Ankheg
+		- Cave Bear
+		- Giant boar
+		- Giant constrictor snake
+		- Hunter shark
+		- Quetzalcoatlus
+		- Rhinoceros
+		- Saber-Toothed tiger
+		- Ettercap
+		- Gelatinous cube
+		- Green dragon Wyrmling
+		- Griffon
+		- Mimic
+		- Pegasus
+	- Cr 3
+		- Amphisbeana (2 headed snake)
+		- Anklyosaurus
+		- Giant Scorpion
+		- Giant Snapping turtle
+		- Sahuagin hatchilng swarm
+		- Spotted lion
+		- Basilisk
+		- Bearded Devil
+		- Manticore
+		- Minotaur
+		- Owlbear
+		- Phase spider
+		- Blue Dragon Wyrmling
+	- Cr 4
+		- Giant subterranean lizard
+		- Stegosaurus
+		- Elephant
+		- Black Pudding
+		- Couatl
+		- Red Dragon Wyrmling
+	- Cr 5
+		- Brontosaurus
+		- Giant crocodile
+		- Culking crab
+		- Swarm of cranium rats
+		- Triceratops
+		- Titanothere
+		- Bulette
+		- Elemental
+		- Unicorn
+	- Cr 6
+		- Mammoth
+		- Chimera
+		- Invisible Stalker
+		- Vrock
+		- Chimera
+		- Displacer Beast
+	- Cr 7
+		- Giant Ape
+		- Stone Giant
+		- Young Black Dragon
+	- Cr 8
+		- Huge giant crab
+		- Tyrannosaurus Rex
+		- Hydra
+		- Corpse flower
+		- Horizonback Tortoise
+	- Cr 9
+		- Treant
+	- Cr 10
+**

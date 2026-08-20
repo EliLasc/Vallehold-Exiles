@@ -1,0 +1,1 @@
+Valle Base is a military base on the North side of [[Vallehold]] island operated by the Dukedom of [[Kazis Vallemhir]].

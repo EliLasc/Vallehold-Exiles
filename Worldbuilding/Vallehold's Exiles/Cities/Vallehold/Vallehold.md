@@ -1,0 +1,1 @@
+Vallehold is an island under [[Kazis Vallemhir|Vallemhir's]] domain, and serves as a prison outpost and flourishing merchant destination for traveling ships.

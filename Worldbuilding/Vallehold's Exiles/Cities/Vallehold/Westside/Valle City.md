@@ -1,0 +1,1 @@
+Valle city is a coastal city on the westside of [[Vallehold]] island.

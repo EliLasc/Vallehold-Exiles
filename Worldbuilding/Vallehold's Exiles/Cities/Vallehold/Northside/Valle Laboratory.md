@@ -1,0 +1,1 @@
+Valle Laboratory is a secret lab under [[Valle Base]] established by duke [[Kazis Vallemhir]], and conducts experiments on [[flux]].

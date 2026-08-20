@@ -1,0 +1,1 @@
+Valle Outpost is a coastal outpost on the eastside of [[Vallehold]] island.

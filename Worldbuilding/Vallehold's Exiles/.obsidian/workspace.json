@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "e681f65de415edaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b67a5a37776c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e67f28462a4ff55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cities/Vallehold/Southside/Valle Jungle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valle Jungle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d37d327df133e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2d62a4cb3dc780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68875ce93acde076",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6dcdea01421ade13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "066511eea960bf9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e3fdac12d05ffae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9036776c430d030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e72a9963764a2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cities/Vallehold/Southside/Valle Jungle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ece340b7908ada15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c8494c00a532d18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0afef54001440343",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "07f09abdedebcd5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Worldbuilding/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "68875ce93acde076",
+  "lastOpenFiles": [
+    "Characters/Kazis Vallemhir.md",
+    "Characters/Aubretia Prisoners/Ulgan.md",
+    "Characters/Aubretia Prisoners/Panwan Greentop.md",
+    "Characters/Aubretia Prisoners/Mop.md",
+    "Characters/Aubretia Prisoners/Hastel Grimgrip.md",
+    "Characters/Aubretia Prisoners/Darius Torba.md",
+    "Sessions/Vallehold Exiles Session 1 prep.md",
+    "Items/Flux Core.md",
+    "Minerals/Flux.md",
+    "Cities/Vallehold/Southside/Valle Jungle.md",
+    "Items",
+    "Cities/Vallehold/Southside/Saevelite Ruins.md",
+    "Ships/Aubretia.md",
+    "Nationalities/Saevelite.md",
+    "Creatures/Essos.md",
+    "Cities/Vallehold/Vallehold.md",
+    "Cities/Vallehold/Northside/Valle Laboratory.md",
+    "Cities/Vallehold/Southside/Gills Cave.md",
+    "Vallehold jungle.md",
+    "Cities/Vallehold/Southside/Tree of Saevel.md",
+    "Cities/Vallehold/Southside/Pueras Ravine.md",
+    "Cities/Vallehold/Northside/Valle Base.md",
+    "Cities/Vallehold/Central/Valle Prison.md",
+    "Characters/Saevel Fennorin.md",
+    "Characters/Aubretia Prisoners",
+    "Pasted image 20260817194546.png",
+    "Sessions",
+    "Cities/Vallehold/Westside/Valle City.md",
+    "Cities/Vallehold/Eastside/Valle Outpost.md",
+    "Nationalities",
+    "Cities",
+    "Creatures",
+    "Untitled.md",
+    "Ships",
+    "Minerals",
+    "Characters",
+    "Cities/Vallehold/Central",
+    "Untitled.canvas"
+  ]
+}

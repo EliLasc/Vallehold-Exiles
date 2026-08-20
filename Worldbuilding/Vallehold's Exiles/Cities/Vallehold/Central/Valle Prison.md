@@ -1,0 +1,1 @@
+Valle Prison is in a holding facility in central [[Vallehold]] island.
