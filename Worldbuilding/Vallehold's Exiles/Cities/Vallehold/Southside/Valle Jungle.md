@@ -7,67 +7,151 @@ Hunters will make trips into the jungle to poach these unique creatures and sell
 Gameplay elements
 **
 - Treacherous land that acts as a natural barrier to escapees
-- When traveling between destinations, roll on the encounter table to determine the type of animal den players encounter. 
-	- The DM rolls on a mutation table to determine the random mutations that the encounter/monster will have
-	- Each monster has a base mutation point pool. This pool determines the possible number and quality of the mutation that they can receive.
-	- Base mutation points = party Cr - monster Cr
-		- a Cr 1 monster start with 4 mutation points if the party has an average Cr of 5
-	- Monster Mutation Table - https://docs.google.com/spreadsheets/d/1JcYnXZ37dHsztnJOvCLEFbe-xGxh5P-f-j1sTxM6L3U/edit?usp=sharing
+- When traveling between destinations have players roll a survival check. 
+	- The survival check determines the map players are on.
+		- For example;
+		- if the average survival check of the party is < 4, they might find themselves in a swampland surrounded by thorny bushes. On these maps players roll on the enemy encounter table with a +1 to Cr cap.
+		- if the average was 5-9, players might be at a raging river they have to cross. On these maps players roll on the enemy encounter table.
+		- if the average was 10-14. players roll on the enemy encounter table but are aware of a beings presence in the area.
+		- if the average was 15-19, players roll on a positive encounter table/nature interaction.
+		- if the average was >= 20, players roll on a positive encounter table/nature interaction with a higher probably for a boon.
+- 
+- The DM rolls on a mutation table to determine the random mutations that the encounter/monster will have
+- Each monster has a base mutation point pool. This pool determines the possible number and quality of the mutation that they can receive.
+- Base mutation points = party Cr - monster Cr + 1
+	- a Cr 1 monster start with 4 mutation points if the party has an average Cr of 5
+- Monster Mutation Table - https://docs.google.com/spreadsheets/d/1JcYnXZ37dHsztnJOvCLEFbe-xGxh5P-f-j1sTxM6L3U/edit?usp=sharing
 - When players defeat a mutated monster, they leave behind a [[flux core]] that is equal to the rarity of the monster's highest rarity mutation.
 - This monster core then randomly generates a usable mutation for players
 - The mutation is unknown to the players until they identify the flux core
 - Player Mutation Table - https://docs.google.com/spreadsheets/d/1AJxflr6-bzCKMMKC8tbV0eXQpjOG9KZaNdqQCtHRtls/edit?usp=sharing
 - Jungle Creatures
-	- Cr < 1
+	- Cr 0
+		- Baboon
 		- Bats
-		- Giant rats
 		- Deer
-		- Spiders
-		- Fire beetle
+		- Eagle
+		- Frog
+		- Giant Fire Beetle
+		- Hawk
+		- Hyena
+		- Lemur
+		- Scorpion
+		- Spider
+		- Vulture
+	- Cr 1/8
+		- Bandit
+		- Cultist
 		- Flying snake
+		- Giant Rat
+		- Kobold
+		- Mastiff (guard dog)
+		- Noble
+		- Tribal Warrior
+	- Cr 1/4
+		- Acolyte
+		- Axe Beak
+		- Blink Dog
+		- Boar
 		- Constrictor snake
+		- Flying Sword
 		- Giant Centipede
 		- Giant lizard
+		- Giant Owl
+		- Goblin
+		- Grimlock
 		- Panther
+		- Pseudodragon
+		- Sprite
+		- Swarm of Bats
+		- Swarm of Rats
+		- Swarm of Ravens
+		- Violet Fungus
+		- Wolf
+	- Cr 1/2
+		- Ape
+		- Black Bear
+		- Cockatrice
+		- Crocodile
+		- Giant Wasp
+		- Gnoll
+		- Hobgoblin
+		- Ice mephit
+		- Lizardfolk
+		- Magma Mephit
+		- Reef Shark
+		- Rust Monster
+		- Satyr
+		- Scout
+		- Swarm of Insects (centipedes)
+		- Thug
+		- Warhorse
+		- Worg
+	- Cr < 1
+		- Animated Armor
+		- Brass Dragon Wyrmling
+		- Brown Bear
+		- Bugbear
+		- Copper Dragon Wyrmling
+		- Dire Wolf
+		- Dryad
+		- Giant Eagle
+		- Hippogriff
+		- Quasit
+		- Spy
 		- Pteranodon
 		- Velociraptor
-		- Wolf/Dire wolf
-		- Ape
-		- Bear
-		- Crocodile
 		- Giant Dragonfly
 		- Deinonychus
 		- Giant toad
 		- Moorbounder
 		- Sangzor
-		- Tiger’
-		- Blink Dog
-		- Copper Dragon Wyrmling
-		- Cockatrice
-		- Giant eagle
-		- Dryad
+		- Tiger
 	- Cr 2
 		- Allosaurus
 		- Aurochs
 		- Ankheg
+		- Awakened Tree
+		- Azeer
+		- Bandit Captain
+		- Black Dragon Wyrmling
+		- Bronze Dragon Wyrmling
 		- Cave Bear
+		- Cult Fanatic
+		- Druid
+		- Gargoyle
+		- Gelatinous Cube
 		- Giant boar
 		- Giant constrictor snake
+		- Green dragon Wyrmling
+		- Griffon
 		- Hunter shark
+		- Mimic
+		- Ogre
 		- Quetzalcoatlus
 		- Rhinoceros
 		- Saber-Toothed tiger
+		- Silver Dragon Wyrmling
+		- White Dragon Wyrmling
+		- Will-o'-Wisp
 		- Ettercap
 		- Gelatinous cube
-		- Green dragon Wyrmling
-		- Griffon
-		- Mimic
 		- Pegasus
+		- Plesiosaurus
+		- Priest
 	- Cr 3
 		- Amphisbeana (2 headed snake)
 		- Anklyosaurus
+		- Blue Dragon Wyrmling
+		- Doppelganger
 		- Giant Scorpion
 		- Giant Snapping turtle
+		- Gold Dragon Wyrmling
+		- Hell Hound
+		- Knight
+		- Manticore
+		- Veteran
+		- Winter Wolf
 		- Sahuagin hatchilng swarm
 		- Spotted lion
 		- Basilisk
@@ -76,7 +160,6 @@ Gameplay elements
 		- Minotaur
 		- Owlbear
 		- Phase spider
-		- Blue Dragon Wyrmling
 	- Cr 4
 		- Giant subterranean lizard
 		- Stegosaurus
@@ -84,15 +167,24 @@ Gameplay elements
 		- Black Pudding
 		- Couatl
 		- Red Dragon Wyrmling
+		- Ettin
+		- Lamia
+		- Wereboar
+		- Weretiger
 	- Cr 5
 		- Brontosaurus
 		- Giant crocodile
+		- Gladiator
+		- Gorgon
+		- Hill Giant
+		- Salamander
+		- Troll
 		- Culking crab
 		- Swarm of cranium rats
 		- Triceratops
 		- Titanothere
 		- Bulette
-		- Elemental
+		- Elementals
 		- Unicorn
 	- Cr 6
 		- Mammoth
@@ -101,17 +193,30 @@ Gameplay elements
 		- Vrock
 		- Chimera
 		- Displacer Beast
+		- Young Brass Dragon
+		- Young White Dragon
 	- Cr 7
 		- Giant Ape
+		- Oni
 		- Stone Giant
 		- Young Black Dragon
+		- Young Copper Dragon
 	- Cr 8
+		- Assassin
+		- Cloaker
+		- Frost Giant
 		- Huge giant crab
 		- Tyrannosaurus Rex
 		- Hydra
 		- Corpse flower
 		- Horizonback Tortoise
+		- Young Bronze Dragon
+		- Young Green Dragon
 	- Cr 9
 		- Treant
-	- Cr 10
+		- Cloud Giant
+		- Fire Giant
+		- Young Blue Dragon
+		- Young Silver Dragon
+	- Cr 10+
 **

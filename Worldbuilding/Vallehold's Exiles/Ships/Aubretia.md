@@ -39,6 +39,7 @@ Gameplay Elements
 			- Bottles of rum/alcohol
 			- Boxes of salt
 			- Boxes of dried meats
+			- Locked chest (roll on a loot table for 2 items)
 	
 	- Brig/Lower Deck (bottom middle)
 	

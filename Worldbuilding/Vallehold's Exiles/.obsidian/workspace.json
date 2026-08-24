@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "22b67a5a37776c8a",
+        "id": "24c54d8645b65a78",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cities/Vallehold/Southside/Valle Jungle.md",
+                "file": "Sessions/Vallehold Exiles Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valle Jungle"
+              "title": "Vallehold Exiles Session 0"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cities/Vallehold/Southside/Valle Jungle.md",
+                "file": "Sessions/Vallehold Exiles Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,24 +187,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "68875ce93acde076",
+  "active": "9e67f28462a4ff55",
   "lastOpenFiles": [
+    "Sessions/Vallehold Exiles Session 1 prep.md",
+    "Sessions/Vallehold Exiles Session 0.md",
+    "Cities/Vallehold/Southside/Valle Jungle.md",
+    "Cities/Vallehold/Vallehold.md",
+    "Ships/Aubretia.md",
     "Characters/Kazis Vallemhir.md",
     "Characters/Aubretia Prisoners/Ulgan.md",
     "Characters/Aubretia Prisoners/Panwan Greentop.md",
     "Characters/Aubretia Prisoners/Mop.md",
     "Characters/Aubretia Prisoners/Hastel Grimgrip.md",
     "Characters/Aubretia Prisoners/Darius Torba.md",
-    "Sessions/Vallehold Exiles Session 1 prep.md",
     "Items/Flux Core.md",
     "Minerals/Flux.md",
-    "Cities/Vallehold/Southside/Valle Jungle.md",
     "Items",
     "Cities/Vallehold/Southside/Saevelite Ruins.md",
-    "Ships/Aubretia.md",
     "Nationalities/Saevelite.md",
     "Creatures/Essos.md",
-    "Cities/Vallehold/Vallehold.md",
     "Cities/Vallehold/Northside/Valle Laboratory.md",
     "Cities/Vallehold/Southside/Gills Cave.md",
     "Vallehold jungle.md",
@@ -220,7 +222,6 @@
     "Nationalities",
     "Cities",
     "Creatures",
-    "Untitled.md",
     "Ships",
     "Minerals",
     "Characters",
