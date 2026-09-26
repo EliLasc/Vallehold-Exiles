@@ -6,21 +6,22 @@ Hunters will make trips into the jungle to poach these unique creatures and sell
 
 Gameplay elements
 **
-- Treacherous land that acts as a natural barrier to escapees
-- When traveling between destinations have players roll a survival check. 
-	- The survival check determines the map players are on.
+- Treacherous land that acts as a natural barrier to prison escapees heading south
+- When traveling between destinations have players roll a group survival check. 
+	- The survival check average determines encounter/situation.
 		- For example;
-		- if the average survival check of the party is < 4, they might find themselves in a swampland surrounded by thorny bushes. On these maps players roll on the enemy encounter table with a +1 to Cr cap.
-		- if the average was 5-9, players might be at a raging river they have to cross. On these maps players roll on the enemy encounter table.
-		- if the average was 10-14. players roll on the enemy encounter table but are aware of a beings presence in the area.
-		- if the average was 15-19, players roll on a positive encounter table/nature interaction.
-		- if the average was >= 20, players roll on a positive encounter table/nature interaction with a higher probably for a boon.
+		- AVG <= 4 players roll on the enemy encounter table with a +1 to Cr cap.
+		- AVG 5-9 players roll on the enemy encounter table.
+		- AVG 10-14 players roll on the enemy encounter table but have the drop on the encounter.
+		- AVG 15-19, players roll on a positive encounter table/nature interaction.
+		- AVG >= 20, players roll on a positive encounter table/nature interaction with a higher probably for a boon.
 - 
 - The DM rolls on a mutation table to determine the random mutations that the encounter/monster will have
 - Each monster has a base mutation point pool. This pool determines the possible number and quality of the mutation that they can receive.
 - Base mutation points = party Cr - monster Cr + 1
 	- a Cr 1 monster start with 4 mutation points if the party has an average Cr of 5
 - Monster Mutation Table - https://docs.google.com/spreadsheets/d/1JcYnXZ37dHsztnJOvCLEFbe-xGxh5P-f-j1sTxM6L3U/edit?usp=sharing
+- Players can roll a check using a bonus action to determine/discover the mutation a creature has
 - When players defeat a mutated monster, they leave behind a [[flux core]] that is equal to the rarity of the monster's highest rarity mutation.
 - This monster core then randomly generates a usable mutation for players
 - The mutation is unknown to the players until they identify the flux core
